@@ -8,7 +8,7 @@ third=" "
 probil=' '
 number=' '
 i=0
-while i<9:
+while i<n:
     first=random.choice(ABC)
     second=random.choice(ABC)
     third=random.choice(ABC)
