@@ -1,0 +1,36 @@
+{
+"info" :   [
+{
+"name" :   "1" ,
+"capacity" :   2000 ,
+"price" :   11000
+} ,
+
+{
+"name" :   "2" ,
+"capacity" :   3000 ,
+"price" :   19000
+} ,
+
+{
+"name" :   "3" ,
+"capacity" :   2500 ,
+"price" :   15000
+
+} ,
+
+{
+"name" :   "4" ,
+"capacity" :   1500 ,
+"price" :   11000
+
+},
+
+{
+"name" :   "5" ,
+"capacity" :   4000 ,
+"price" :   25000
+
+}
+]
+}
