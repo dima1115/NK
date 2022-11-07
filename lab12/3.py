@@ -1,10 +1,4 @@
-import math
-def cV(a):
-    c = math.pi*math.pow(a,3)*4/3
-    print(c)
-def cS(a):
-    y = 4*math.pow(a,2)*math.pi
-    print(y)
+import Bullet_research
 x1=float(input("Введіть радіус"))
-cV(x1)
-cS(x1)
+Bullet_research.cV(x1)
+Bullet_research.cS(x1)
