@@ -18,8 +18,10 @@ c = KARD()
 N=float(input('N '))
 l=0
 g=1
+sk=c.mix()
 k=int(c.kk/N)
 while c.kk>l:
-    print('Карти', g, 'гравця', c.sk[l:l+k])
+    print('Карти', g, 'гравця', sk[l:l+k])
     g=g+1
     l=l+k
+
